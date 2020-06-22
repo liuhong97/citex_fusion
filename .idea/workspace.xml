@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d439f4d-61d8-467d-88e2-d844525c4acc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/citex_fusion/CitexFusionApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/citex_fusion/CitexFusionApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d439f4d-61d8-467d-88e2-d844525c4acc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,18 +44,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592837341196</updated>
-      <workItem from="1592837344383" duration="332000" />
+      <workItem from="1592837344383" duration="575000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化项目信息">
+      <created>1592837749298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592837749298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化项目信息">
+      <created>1592837830105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592837830105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目信息" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="745" y="8" key="CommitChangelistDialog2" timestamp="1592837774622">
+    <state x="745" y="8" key="CommitChangelistDialog2" timestamp="1592837829497">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="745" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592837774622" />
+    <state x="745" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592837829497" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1592837918819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1592837918819" />
     <state x="178" y="114" key="new project wizard" timestamp="1592837479977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
